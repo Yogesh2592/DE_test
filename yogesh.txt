@@ -1,1 +1,4 @@
 testing part
+
+feature 1 changes added
+another changes
